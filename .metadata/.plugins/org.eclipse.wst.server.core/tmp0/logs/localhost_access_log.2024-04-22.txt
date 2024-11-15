@@ -1,0 +1,17 @@
+127.0.0.1 - - [22/Apr/2024:18:35:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:36:18 +0530] "GET /UserDemo/CreateAccount.jsp HTTP/1.1" 200 4545
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:36:18 +0530] "GET /UserDemo/image/bg3.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:36:18 +0530] "GET /UserDemo/image/logo.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:36:18 +0530] "GET /UserDemo/image/bg_n_s-removebg.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:36:18 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:37:24 +0530] "POST /UserDemo/insert HTTP/1.1" 500 3423
+127.0.0.1 - - [22/Apr/2024:18:42:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:42:27 +0530] "GET /UserDemo/CreateAccount.jsp HTTP/1.1" 200 4545
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:43:04 +0530] "POST /UserDemo/insert HTTP/1.1" 200 849
+127.0.0.1 - - [22/Apr/2024:18:45:51 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:45:52 +0530] "GET /UserDemo/CreateAccount.jsp HTTP/1.1" 200 4545
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:18:46:36 +0530] "POST /UserDemo/insert HTTP/1.1" 200 888
+127.0.0.1 - - [22/Apr/2024:20:48:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:20:48:12 +0530] "GET /UserDemo/CreateAccount.jsp HTTP/1.1" 200 4544
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:20:48:12 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [22/Apr/2024:20:50:17 +0530] "GET /UserDemo/CreateAccount.jsp HTTP/1.1" 200 4545
