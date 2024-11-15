@@ -1,0 +1,10 @@
+127.0.0.1 - - [23/Apr/2024:00:18:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:00:18:07 +0530] "GET /UserDemo/Login.jsp HTTP/1.1" 200 4919
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:00:18:07 +0530] "GET /UserDemo/image/logo.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:00:18:07 +0530] "GET /UserDemo/image/whatsapp.png HTTP/1.1" 200 18262
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:00:18:07 +0530] "GET /UserDemo/image/facebook.png HTTP/1.1" 200 11246
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:00:18:07 +0530] "GET /UserDemo/image/bg_n.jpg HTTP/1.1" 200 153458
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:00:18:07 +0530] "GET /UserDemo/image/bg3.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:00:18:07 +0530] "GET /UserDemo/image/social.png HTTP/1.1" 200 15286
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:00:18:07 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/Apr/2024:00:19:37 +0530] "POST /UserDemo/login HTTP/1.1" 500 1359
